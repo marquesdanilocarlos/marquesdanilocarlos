@@ -10,7 +10,7 @@
 </p>
 
 <p>👨‍💻 Atualmente ocupo o cargo de desenvolvedor sênior na <strong>Basis - Tecnologia da Informação</strong> 
-alocado na <strong>SECOM - Presidência da República</strong></p>
+alocado na <strong>SECOM - Presidência da República.</strong></p>
 
 <p align="left">
   ✉️ Caso queira bater um papo, você pode me contactar nos seguintes canais: ⤵️
@@ -45,7 +45,6 @@ alocado na <strong>SECOM - Presidência da República</strong></p>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
 </p>
 
----
 <h2>📖 Atualmente estudando</h2>
 <p>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
