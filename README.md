@@ -26,29 +26,29 @@ alocado na <strong>SECOM - Presidência da República</strong></p>
 ---
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="Jquery"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/symfony/symfony.png" alt="Symfony"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="GIT"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="Jquery"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/symfony/symfony.png" alt="Symfony"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="GIT"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
 
 ---
 ## 📖 **Atualmente estudando**
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
 
 ---
 
