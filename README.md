@@ -43,10 +43,6 @@ alocado na <strong>SECOM - Presidência da República.</strong></p>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"/>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
-</p>
-
-<h2>📖 Atualmente estudando</h2>
-<p>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
